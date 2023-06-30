@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Henry Lucca</h1>
 <p align="center">A Computer Science student and passionate developer from Olinda/PE</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrylucca" alt="henrylucca" /></a> </p>
-
 - 🔭 I’m currently working on my **university projects**
 
 - 🌱 I’m currently learning **Nextjs, MongoDB and Typescript**
@@ -42,3 +40,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrylucca&" alt="henrylucca" /></p>
 
+<p>My Github Trophies</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henrylucca" alt="henrylucca" /></a> </p>
